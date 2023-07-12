@@ -19,3 +19,6 @@ To install Notebook : pip3 install Jupyter
 To install nano : apt install nano
 To code in python : nano hello.py  within that type as print(“Hello World”); then save the file
 To execute the python : python3 hello.py
+
+
+By Krishna Prasath T
